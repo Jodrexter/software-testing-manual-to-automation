@@ -86,4 +86,4 @@ Version Control: Git & GitHub
 
 Defect Tracking (Practice): JIRA (sample bug reports)
 
-Test Documentation: Excel / Markdown
+Test Documentation: Excel / Markdown and many more 
